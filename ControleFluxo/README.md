@@ -10,6 +10,7 @@ Foram abordados conceitos como:
 *  [X] Switch Case
 *  [X] If-Else
 *  [X] Condições Ternárias
+*  [X] For, While, Do-While
 
 ### Referência.
-[DIO](https://web.dio.me/course/introducao-e-estruturas-condicionais-com-java/learning/1e9579e9-810a-4194-9df0-9fbc0fb92ff2?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined)
+Curso de Java Básico oferecido pela [DIO.](https://web.dio.me/)
