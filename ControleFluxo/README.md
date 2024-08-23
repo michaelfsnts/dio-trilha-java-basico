@@ -11,6 +11,7 @@ Foram abordados conceitos como:
 *  [X] If-Else
 *  [X] Condições Ternárias
 *  [X] For, While, Do-While
+*  [X] try, catch e finally
 
 ### Referência.
 Curso de Java Básico oferecido pela [DIO.](https://web.dio.me/)
