@@ -26,3 +26,14 @@ tipos-variaveis/.vscode/settings.json
 sistema-smart-tv/.vscode/settings.json
 ContaBanco/.vscode/settings.json
 ControleFluxo/.vscode/settings.json
+.idea/dio-trilha-java-basico.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/dictionaries/micha.xml
+ContaBanco/ContaBanco.iml
+ControleFluxo/ControleFluxo.iml
+sistema-smart-tv/sistema-smart-tv.iml
+tipos-variaveis/tipos-variaveis.iml
+.idea/.gitignore
