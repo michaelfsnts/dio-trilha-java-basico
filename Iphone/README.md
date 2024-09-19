@@ -2,7 +2,4 @@
 
 Desafio de projeto onde foi realizado à fixação do tema: Pilares da POO. Utilizando conceitos sobre classes e interfaces. Também foi utilizado conceitos de Polimorfismo e Herança para que esse projeto ficasse mais completo e de uma maneira simples.
 
-<<<<<<< HEAD
 ![Imagem](assets\Iphone.jpg)
-=======
->>>>>>> c4d2f0b586b81f2869bcc42285eb56c0a617697a
